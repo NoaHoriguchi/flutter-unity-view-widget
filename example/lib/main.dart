@@ -8,7 +8,7 @@ import 'screens/loader_screen.dart';
 import 'screens/simple_screen.dart';
 
 void main() {
-  print("testing");
+  print("testing 2");
   runApp(const MyApp());
 }
 
